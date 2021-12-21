@@ -32,15 +32,34 @@ Now we are taking this time to introduce you guys with the web thing of our comp
 # Overcoming The Challenges — Solution Overview
 App preview:
 
-![alt-text-1](https://user-images.githubusercontent.com/88030979/146877572-72a2360d-ea99-454b-b364-545c6665309a.jpeg) ![alt-text-2](https://user-images.githubusercontent.com/88030979/146877598-d2164c1f-67f8-45a9-a4b6-114ed50508e4.jpeg)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/88030979/146878223-6afddafc-f093-42b2-b908-42d656ca586d.jpeg" width="100" />
+  <img src="https://user-images.githubusercontent.com/88030979/146878265-5a3190b5-114f-4848-a4e3-da8693666454.jpeg" width="100" />
+ <img src="https://user-images.githubusercontent.com/88030979/146878480-7b2abeb3-c6b4-45aa-86c1-7b1b777fb03d.jpeg" width="100" />
+ <img src="https://user-images.githubusercontent.com/88030979/146878553-c4aae2ea-3e0f-4c16-b179-09ac1146d86d.jpeg" width="100" />
+</p>
 
 
-![WhatsApp Image 2021-12-21 at 11 00 27](https://user-images.githubusercontent.com/88030979/146877610-52aa519d-d31b-4322-bb6d-9d8dd17410f2.jpeg)
-![WhatsApp Image 2021-12-21 at 11 00 27 (1)](https://user-images.githubusercontent.com/88030979/146877621-46559b13-3b3f-4d44-a5ea-c20e8c619423.jpeg)
-![WhatsApp Image 2021-12-21 at 11 00 28](https://user-images.githubusercontent.com/88030979/146877629-f42cbb9d-3caf-47df-97c9-8e6f2cd0eda2.jpeg)
-![WhatsApp Image 2021-12-21 at 11 00 28 (1)](https://user-images.githubusercontent.com/88030979/146877638-d85f20d8-4a1a-4459-8a42-3d18ae567356.jpeg)
-![WhatsApp Image 2021-12-21 at 11 00 28 (2)](https://user-images.githubusercontent.com/88030979/146877643-d5957876-b2a7-450a-b890-98c3eb7864be.jpeg)
-![WhatsApp Image 2021-12-21 at 11 00 29](https://user-images.githubusercontent.com/88030979/146877659-166472cd-3d9d-4c97-b7fb-35503ade0dfb.jpeg)
+<p float="left">
+ <img src="https://user-images.githubusercontent.com/88030979/146878562-7cd83955-24fc-4fc6-b4cd-3543909c186d.jpeg" width="100" />
+ <img src="https://user-images.githubusercontent.com/88030979/146878620-1cc1c6eb-54f8-4e57-8dc0-9df2b03ca5aa.jpeg" width="100" />
+ <img src="https://user-images.githubusercontent.com/88030979/146878634-7eb6a484-ebf4-4198-8061-01005c89174f.jpeg" width="100" />
+ <img src="https://user-images.githubusercontent.com/88030979/146878648-78d31498-7458-48ce-aee3-c744cc903190.jpeg" width="100" />
+</p>
+
+
+https://user-images.githubusercontent.com/88030979/146879354-4d33f324-1ee7-430b-b8c6-78cff012d93a.mp4
+
+Web Preview :
+![WhatsApp Image 2021-12-21 at 11 32 40](https://user-images.githubusercontent.com/88030979/146879904-0cd1c3de-5bf9-4f03-a0a5-d846c9b2a2bc.jpeg)
+![WhatsApp Image 2021-12-21 at 11 33 00](https://user-images.githubusercontent.com/88030979/146879943-c49a5736-212d-4ddc-bbb1-0cc76dd09771.jpeg)
+![WhatsApp Image 2021-12-21 at 11 33 14](https://user-images.githubusercontent.com/88030979/146879970-48091b84-1513-4360-bbe7-bc18e2bb5129.jpeg)
+![WhatsApp Image 2021-12-21 at 11 34 58](https://user-images.githubusercontent.com/88030979/146880037-1fcd6b0f-51bf-4c80-89d8-7806c0c543d0.jpeg)
+![WhatsApp Image 2021-12-21 at 11 35 31](https://user-images.githubusercontent.com/88030979/146880077-dabf4f18-58c3-4ecf-ad8a-69cbd4906b06.jpeg)
+![WhatsApp Image 2021-12-21 at 11 35 45](https://user-images.githubusercontent.com/88030979/146880087-efb3fa28-b4b5-474a-8207-b3a505df683a.jpeg)
+![WhatsApp Image 2021-12-21 at 11 36 01](https://user-images.githubusercontent.com/88030979/146880107-d9abf631-cdfe-410f-a4b7-86f8995ef3ae.jpeg)
+
+
 
 
 Here are the things you can do with our website or we can provide.
