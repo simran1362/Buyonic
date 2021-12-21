@@ -64,7 +64,6 @@ Web Preview :
 Here are the things you can do with our website or we can provide.
 <br /> These are all the important links affiliated with our company.
 <br /> Backend : https://buyonic.herokuapp.com/auth/register/
-<br /> Frontend : 
 <br /> React Native : https://enemiesofsyntax.postman.co/workspace/Team-Workspace~729da0ee-6451-43fc-8fe2-91704ce25db4/overview
 <br /> Design : https://www.figma.com/file/fAUze9ouR1AZRAZ0nwHSrz/Login-Page-design-(Community)?node-id=0%3A1
 
