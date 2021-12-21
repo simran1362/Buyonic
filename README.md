@@ -31,8 +31,8 @@ Now we are taking this time to introduce you guys with the web thing of our comp
 
 # Overcoming The Challenges — Solution Overview
 App preview:
-![WhatsApp Image 2021-12-21 at 11 00 26](https://user-images.githubusercontent.com/88030979/146877572-72a2360d-ea99-454b-b364-545c6665309a.jpeg)
-![WhatsApp Image 2021-12-21 at 11 00 26 (1)](https://user-images.githubusercontent.com/88030979/146877598-d2164c1f-67f8-45a9-a4b6-114ed50508e4.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 26](https://user-images.githubusercontent.com/88030979/146877572-72a2360d-ea99-454b-b364-545c6665309a.jpeg) !![WhatsApp Image 2021-12-21 at 11 00 26 (1)](https://user-images.githubusercontent.com/88030979/146877598-d2164c1f-67f8-45a9-a4b6-114ed50508e4.jpeg)
+
 ![WhatsApp Image 2021-12-21 at 11 00 27](https://user-images.githubusercontent.com/88030979/146877610-52aa519d-d31b-4322-bb6d-9d8dd17410f2.jpeg)
 ![WhatsApp Image 2021-12-21 at 11 00 27 (1)](https://user-images.githubusercontent.com/88030979/146877621-46559b13-3b3f-4d44-a5ea-c20e8c619423.jpeg)
 ![WhatsApp Image 2021-12-21 at 11 00 28](https://user-images.githubusercontent.com/88030979/146877629-f42cbb9d-3caf-47df-97c9-8e6f2cd0eda2.jpeg)
