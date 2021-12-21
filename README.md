@@ -30,6 +30,16 @@ Success usually comes to those who are too busy to be looking for it.” – Hen
 Now we are taking this time to introduce you guys with the web thing of our company which is basically a website.
 
 # Overcoming The Challenges — Solution Overview
+App preview:
+![WhatsApp Image 2021-12-21 at 11 00 26](https://user-images.githubusercontent.com/88030979/146877572-72a2360d-ea99-454b-b364-545c6665309a.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 26 (1)](https://user-images.githubusercontent.com/88030979/146877598-d2164c1f-67f8-45a9-a4b6-114ed50508e4.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 27](https://user-images.githubusercontent.com/88030979/146877610-52aa519d-d31b-4322-bb6d-9d8dd17410f2.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 27 (1)](https://user-images.githubusercontent.com/88030979/146877621-46559b13-3b3f-4d44-a5ea-c20e8c619423.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 28](https://user-images.githubusercontent.com/88030979/146877629-f42cbb9d-3caf-47df-97c9-8e6f2cd0eda2.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 28 (1)](https://user-images.githubusercontent.com/88030979/146877638-d85f20d8-4a1a-4459-8a42-3d18ae567356.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 28 (2)](https://user-images.githubusercontent.com/88030979/146877643-d5957876-b2a7-450a-b890-98c3eb7864be.jpeg)
+![WhatsApp Image 2021-12-21 at 11 00 29](https://user-images.githubusercontent.com/88030979/146877659-166472cd-3d9d-4c97-b7fb-35503ade0dfb.jpeg)
+
 
 Here are the things you can do with our website or we can provide.
 <br /> These are all the important links affiliated with our company.
@@ -38,9 +48,6 @@ Here are the things you can do with our website or we can provide.
 <br /> React Native : https://enemiesofsyntax.postman.co/workspace/Team-Workspace~729da0ee-6451-43fc-8fe2-91704ce25db4/overview
 <br /> Design : https://www.figma.com/file/fAUze9ouR1AZRAZ0nwHSrz/Login-Page-design-(Community)?node-id=0%3A1
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
